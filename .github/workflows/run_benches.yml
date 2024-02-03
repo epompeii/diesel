@@ -1,3 +1,4 @@
+# Example PR
 on:
   pull_request:
     types: [labeled, opened, reopened, synchronize]
